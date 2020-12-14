@@ -1,0 +1,7 @@
+C:\Users\Saad\source\repos\WcfServiceLibrary_TP\WcfServiceLibrary_TP\bin\Debug\WcfServiceLibrary_TP.dll.config
+C:\Users\Saad\source\repos\WcfServiceLibrary_TP\WcfServiceLibrary_TP\bin\Debug\WcfServiceLibrary_TP.dll
+C:\Users\Saad\source\repos\WcfServiceLibrary_TP\WcfServiceLibrary_TP\bin\Debug\WcfServiceLibrary_TP.pdb
+C:\Users\Saad\source\repos\WcfServiceLibrary_TP\WcfServiceLibrary_TP\obj\Debug\WcfServiceLibrary_TP.csprojAssemblyReference.cache
+C:\Users\Saad\source\repos\WcfServiceLibrary_TP\WcfServiceLibrary_TP\obj\Debug\WcfServiceLibrary_TP.csproj.CoreCompileInputs.cache
+C:\Users\Saad\source\repos\WcfServiceLibrary_TP\WcfServiceLibrary_TP\obj\Debug\WcfServiceLibrary_TP.dll
+C:\Users\Saad\source\repos\WcfServiceLibrary_TP\WcfServiceLibrary_TP\obj\Debug\WcfServiceLibrary_TP.pdb
